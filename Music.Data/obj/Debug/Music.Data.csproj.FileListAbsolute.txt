@@ -1,0 +1,12 @@
+F:\prachi\Music\Music.Data\bin\Debug\Music.Data.dll.config
+F:\prachi\Music\Music.Data\bin\Debug\Music.Data.dll
+F:\prachi\Music\Music.Data\bin\Debug\Music.Data.pdb
+F:\prachi\Music\Music.Data\bin\Debug\EntityFramework.dll
+F:\prachi\Music\Music.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\prachi\Music\Music.Data\bin\Debug\EntityFramework.xml
+F:\prachi\Music\Music.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\prachi\Music\Music.Data\obj\Debug\Music.Data.csproj.AssemblyReference.cache
+F:\prachi\Music\Music.Data\obj\Debug\Music.Data.csproj.CoreCompileInputs.cache
+F:\prachi\Music\Music.Data\obj\Debug\Music.Data.csproj.CopyComplete
+F:\prachi\Music\Music.Data\obj\Debug\Music.Data.dll
+F:\prachi\Music\Music.Data\obj\Debug\Music.Data.pdb

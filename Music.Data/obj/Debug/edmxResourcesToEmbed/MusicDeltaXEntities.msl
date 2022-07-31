@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MusicDeltaXModelStoreContainer" CdmEntityContainer="MusicDeltaXEntities">
+    <EntitySetMapping Name="Artists">
+      <EntityTypeMapping TypeName="MusicDeltaXModel.Artist">
+        <MappingFragment StoreEntitySet="Artist">
+          <ScalarProperty Name="ArtistId" ColumnName="ArtistId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="Bio" ColumnName="Bio" />
+          <ScalarProperty Name="SongId" ColumnName="SongId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Songs">
+      <EntityTypeMapping TypeName="MusicDeltaXModel.Song">
+        <MappingFragment StoreEntitySet="Song">
+          <ScalarProperty Name="SongId" ColumnName="SongId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="DateOfRelease" ColumnName="DateOfRelease" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="ArtistId" ColumnName="ArtistId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="MusicDeltaXModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
