@@ -1,0 +1,17 @@
+			     PROPER  COMPUTER INSTITUTE  OF TECHNOLOGY
+			         Address : Lalgang mehndi bagh road, nagpur .
+				        mob.no: 9284231998
+
+
+		LIST OF STUDENTS
+
+Name of students 		Admission fees	Total fees
+
+1. Twinkle 		6000+500 	6500
+2. Prachi			7000		7000
+3. Shivani			5000+250	5250
+4. Sneha 			6500+500	7000
+5. Devansh		500+20		520
+6. Anjali			9000		9000
+7. Disha			8000+520	8520
+8. aishwarya		6500+500	7000		
